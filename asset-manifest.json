@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/jagrutixerox/static/css/main.7f363841.css",
+    "main.js": "/jagrutixerox/static/js/main.a42a11dc.js",
+    "static/js/498.d12fefe6.chunk.js": "/jagrutixerox/static/js/498.d12fefe6.chunk.js",
+    "static/js/703.fb6a8f02.chunk.js": "/jagrutixerox/static/js/703.fb6a8f02.chunk.js",
+    "static/js/9.54c12317.chunk.js": "/jagrutixerox/static/js/9.54c12317.chunk.js",
+    "static/js/787.b1d22bcc.chunk.js": "/jagrutixerox/static/js/787.b1d22bcc.chunk.js",
+    "index.html": "/jagrutixerox/index.html",
+    "main.7f363841.css.map": "/jagrutixerox/static/css/main.7f363841.css.map",
+    "main.a42a11dc.js.map": "/jagrutixerox/static/js/main.a42a11dc.js.map",
+    "498.d12fefe6.chunk.js.map": "/jagrutixerox/static/js/498.d12fefe6.chunk.js.map",
+    "703.fb6a8f02.chunk.js.map": "/jagrutixerox/static/js/703.fb6a8f02.chunk.js.map",
+    "9.54c12317.chunk.js.map": "/jagrutixerox/static/js/9.54c12317.chunk.js.map",
+    "787.b1d22bcc.chunk.js.map": "/jagrutixerox/static/js/787.b1d22bcc.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.7f363841.css",
+    "static/js/main.a42a11dc.js"
+  ]
+}

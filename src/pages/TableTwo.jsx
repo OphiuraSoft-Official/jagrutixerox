@@ -4,13 +4,12 @@ import "jspdf-autotable";
 const Table2 = ({
   heading,
   items,
-  handleShift,
   setSelectedCat,
   selectedCat,
 }) => {
   const [rank, setRank] = useState(null);
 
-  
+
 
   return (
     <>

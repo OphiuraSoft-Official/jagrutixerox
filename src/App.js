@@ -97,22 +97,6 @@ const App = () => {
     });
   };
 
-  const handleShift = (table, index) => {
-    if (table) {
-      let data = items[index];
-      if (data) {
-        items.splice(index, 1);
-        setSelectedItems([...selectedItems, data]);
-      }
-    } else {
-      let data = selectedItems[index];
-      if (data) {
-        selectedItems.splice(index, 1);
-        setItems([...items, data]);
-      }
-    }
-  };
-
   return (
     <div className="main">
       {items.length === 0 && selectedItems.length === 0 ? (
@@ -152,7 +136,6 @@ const App = () => {
               setSelectedCat={setSelectedCat}
               heading={heading}
               items={items}
-              handleShift={handleShift}
             />
             <div className="page-number"></div>
           </div>
